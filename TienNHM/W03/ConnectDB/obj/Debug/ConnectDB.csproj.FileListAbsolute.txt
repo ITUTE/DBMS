@@ -1,0 +1,10 @@
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\bin\Debug\ConnectDB.exe.config
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\bin\Debug\ConnectDB.exe
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\bin\Debug\ConnectDB.pdb
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.csprojAssemblyReference.cache
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.Form1.resources
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.Properties.Resources.resources
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.csproj.GenerateResource.cache
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.exe
+D:\Docs\HCMUTE\DBMS\W03\ConnectDB\obj\Debug\ConnectDB.pdb
